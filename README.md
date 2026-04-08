@@ -1,34 +1,45 @@
-<h1>👋 Hola, soy Nicolás</h1>
+<h1 align="center">👋 Hola, soy Nicolás</h1>
 
-⚡ Estudiante de Ingeniería Eléctrica
-💡 Apasionado por la tecnología, la energía y la innovación
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Ingeniería+Eléctrica;Energías+Renovables;Sistemas+Eléctricos;Programación+y+tecnología" />
+<p align="center">
+@@ -13,16 +13,18 @@
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Ingeniería+Eléctrica;Energías+Renovables;Sistemas+Eléctricos;Programación+y+tecnología" />
+</p>
 
+---
 <br>
 
 ## 🚀 Sobre mí
 
+* 📍 Colombia
+* ⚡ Enfocado en **energías renovables** y sistemas eléctricos
+* 🔌 Interés en automatización, circuitos y tecnología
+* 📈 En constante crecimiento académico y profesional
 📍 Colombia
 ⚡ Enfocado en **energías renovables** y sistemas eléctricos
 🔌 Interés en automatización, circuitos y tecnología
 📈 En constante crecimiento académico y profesional
 
+## 🛠️ Tecnologías y Herramientas
 <br>
 
 ## 🛠️ Tecnologías
 
+<p align="center">
 <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/C++-111111?style=flat-square&logo=c%2B%2B"/>
-<img src="https://img.shields.io/badge/MATLAB-111111?style=flat-square"/>
+@@ -31,31 +33,40 @@
 <img src="https://img.shields.io/badge/Arduino-111111?style=flat-square&logo=arduino"/>
+</p>
 
-<br><br>
+<br>
 
-## 📈 Lenguajes más usados (proximamente)
+## 📈 Lenguajes más usados
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nic0AlDi&layout=compact&theme=tokyonight"/>
+</p>
 
-
+## 🌱 Actualmente aprendiendo
 <br>
 
 ## 🌱 Actualmente
@@ -37,8 +48,12 @@
 ⚡ Sistemas eléctricos de potencia
 💻 Programación aplicada a ingeniería
 
+* Energía solar fotovoltaica ☀️
+* Sistemas eléctricos de potencia ⚡
+* Programación aplicada a ingeniería
 <br>
 
+## 🚧 Proyectos destacados
 ## 🚧 Proyectos
 
 🔹 Sistema solar fotovoltaico básico
@@ -49,10 +64,16 @@
 
 ## 📫 Contacto
 
- <p align="center"> 
-   <a href="mailto:nsalbarracind@udistrital.edu.co">📩 nsalbarracind@udistrital.edu.co</a> 
- </p>
+<p align="center"> 
+  <a href="mailto:nsalbarracind@udistrital.edu.co">📩 nsalbarracind@udistrital.edu.co</a> 
+<p align="center">
+<a href="mailto:nico64diaz@gmail.com">📩 nico64diaz@gmail.com</a>
+</p>
+---
 
 <br>
 
+<p align="center">
+✨ <i>"La ingeniería es el arte de transformar ideas en soluciones"</i> ✨
 ⚡
+</p>
