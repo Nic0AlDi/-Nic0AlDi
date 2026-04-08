@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Nicolás</h1>
+<h1 align="center"> Hola, soy Nicolás</h1>
 
 
 <p align="center">
@@ -14,10 +14,6 @@
 * ⚡ Enfocado en **energías renovables** y sistemas eléctricos
 * 🔌 Interés en automatización, circuitos y tecnología
 * 📈 En constante crecimiento académico y profesional
-📍 Colombia
-⚡ Enfocado en **energías renovables** y sistemas eléctricos
-🔌 Interés en automatización, circuitos y tecnología
-📈 En constante crecimiento académico y profesional
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -40,19 +36,15 @@
 ## 🌱 Actualmente aprendiendo
 <br>
 
-## 🌱 Actualmente
 
-☀️ Energía solar fotovoltaica
-⚡ Sistemas eléctricos de potencia
-💻 Programación aplicada a ingeniería
+🔹 Energía solar fotovoltaica
+🔹 Sistemas eléctricos de potencia
+🔹 Programación aplicada a ingeniería
 
-* Energía solar fotovoltaica ☀️
-* Sistemas eléctricos de potencia ⚡
-* Programación aplicada a ingeniería
+
 <br>
 
 ## 🚧 Proyectos destacados
-## 🚧 Proyectos
 
 🔹 Sistema solar fotovoltaico básico
 🔹 Simulación de circuitos en MATLAB
