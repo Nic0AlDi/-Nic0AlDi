@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hola, soy Nicolás</h1>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nic0AlDi/-Nic0AlDi/main/foto_perfil(1).png" width="160" style="border-radius:50%;" />
+</p>
 <p align="center">
 ⚡ Estudiante de Ingeniería Eléctrica <br>
 💡 Apasionado por la tecnología, la energía y la innovación
