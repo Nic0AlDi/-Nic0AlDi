@@ -22,8 +22,6 @@
 * 🔌 Interés en automatización, circuitos y tecnología
 * 📈 En constante crecimiento académico y profesional
 
----
-
 ## 🛠️ Tecnologías y Herramientas
 
 <p align="center">
@@ -33,15 +31,11 @@
 <img src="https://img.shields.io/badge/Arduino-111111?style=flat-square&logo=arduino"/>
 </p>
 
----
-
 ## 📈 Lenguajes más usados
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nic0AlDi&layout=compact&theme=tokyonight"/>
 </p>
-
----
 
 ## 🌱 Actualmente aprendiendo
 
@@ -49,22 +43,17 @@
 * Sistemas eléctricos de potencia ⚡
 * Programación aplicada a ingeniería
 
----
-
 ## 🚧 Proyectos destacados
 
 🔹 Sistema solar fotovoltaico básico
 🔹 Simulación de circuitos en MATLAB
 🔹 Automatización con Arduino
 
----
-
 ## 📫 Contacto
 
 <p align="center"> 
   <a href="mailto:nsalbarracind@udistrital.edu.co">📩 nsalbarracind@udistrital.edu.co</a> 
 </p>
-
 ---
 
 <p align="center">
