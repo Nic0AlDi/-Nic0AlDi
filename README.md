@@ -24,11 +24,15 @@
 
 ## 🛠️ Tecnologías
 
+## 🛠️ Tecnologías y Herramientas
+
 <p align="center">
 <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python"/>
-@@ -31,31 +33,40 @@
+<img src="https://img.shields.io/badge/C++-111111?style=flat-square&logo=c%2B%2B"/>
+<img src="https://img.shields.io/badge/MATLAB-111111?style=flat-square"/>
 <img src="https://img.shields.io/badge/Arduino-111111?style=flat-square&logo=arduino"/>
 </p>
+
 
 <br>
 
