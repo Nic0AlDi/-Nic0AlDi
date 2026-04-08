@@ -56,8 +56,6 @@
 
 <p align="center"> 
   <a href="mailto:nsalbarracind@udistrital.edu.co">📩 nsalbarracind@udistrital.edu.co</a> 
-<p align="center">
-<a href="mailto:nico64diaz@gmail.com">📩 nico64diaz@gmail.com</a>
 </p>
 ---
 
