@@ -37,18 +37,18 @@
 <br>
 
 
-🔹 Energía solar fotovoltaica
-🔹 Sistemas eléctricos de potencia
-🔹 Programación aplicada a ingeniería
+* Energía solar fotovoltaica
+* Sistemas eléctricos de potencia
+* Programación aplicada a ingeniería
 
 
 <br>
 
 ## 🚧 Proyectos destacados
 
-🔹 Sistema solar fotovoltaico básico
-🔹 Simulación de circuitos en MATLAB
-🔹 Automatización con Arduino
+* Sistema solar fotovoltaico básico
+* Simulación de circuitos en MATLAB
+* Automatización con Arduino
 
 <br>
 
