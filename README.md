@@ -10,10 +10,7 @@
 
 ## 🚀 Sobre mí
 
-* 📍 Colombia
-* ⚡ Enfocado en **energías renovables** y sistemas eléctricos
-* 🔌 Interés en automatización, circuitos y tecnología
-* 📈 En constante crecimiento académico y profesional
+Enfocado en energías renovables y sistemas eléctricos, con un interés constante en la automatización, los circuitos y la tecnología, mientras sigo fortaleciendo mi crecimiento académico y profesional.
 
 ## 🛠️ Tecnologías y Herramientas
 
