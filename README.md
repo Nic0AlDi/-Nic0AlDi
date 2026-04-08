@@ -2,7 +2,6 @@
 
 
 <p align="center">
-@@ -13,16 +13,18 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Ingeniería+Eléctrica;Energías+Renovables;Sistemas+Eléctricos;Programación+y+tecnología" />
 </p>
 
