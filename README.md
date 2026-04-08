@@ -31,14 +31,6 @@
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nic0AlDi&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nic0AlDi&theme=tokyonight"/>
-</p>
 
 ---
 
