@@ -20,11 +20,6 @@
 📈 En constante crecimiento académico y profesional
 
 ## 🛠️ Tecnologías y Herramientas
-<br>
-
-## 🛠️ Tecnologías
-
-## 🛠️ Tecnologías y Herramientas
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python"/>
