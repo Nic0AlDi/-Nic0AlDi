@@ -48,13 +48,6 @@
 
 ---
 
-## 🐍 Actividad (snake animation)
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Nic0AlDi/Nic0AlDi/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
 
 ## 🌱 Actualmente aprendiendo
 
@@ -66,8 +59,7 @@
 
 ## 🚧 Proyectos destacados (próximamente)
 
-🔹 Aquí podrás mostrar tus proyectos más importantes
-🔹 Ejemplo: simulaciones, circuitos, energía solar, etc
+
 
 ---
 
